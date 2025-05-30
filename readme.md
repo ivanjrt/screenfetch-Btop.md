@@ -14,3 +14,9 @@ then add at the very end <br/>
 screenfetch
 ```
 close save, restart
+
+
+# BTOP
+```
+sudo apt  install btop -Y
+```

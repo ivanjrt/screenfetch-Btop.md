@@ -1,7 +1,7 @@
 # To Install in Ubuntu:
 ```java
 sudo apt update
-sudo apt install screenfetch
+sudo apt install screenfetch -y
 
 ```
 
@@ -18,5 +18,5 @@ close save, restart
 
 # BTOP
 ```
-sudo apt  install btop -Y
+sudo apt  install btop -y
 ```
